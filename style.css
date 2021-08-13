@@ -1,0 +1,24 @@
+body{
+    background-color:aliceblue;
+}
+
+a:visited {
+    color: saddlebrown;
+}
+
+a:hover {
+    color: darksalmon;
+    background-color: cornflowerblue;
+    display: compact;
+}
+
+input[type="submit"] {
+    background-color: darkslategray;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+
